@@ -1,0 +1,14 @@
+{
+  "name": "Stormfall: Age of War",
+  "description": "By sword, spell and bow, become the greatest ruler of Stormfall! Step into a dark world of fantasy and myth—of ancient magic, dragons, destiny, and heroes. You have been chosen to be a champion in these dark times—a Lord with the strength to fight the forces of darkness, and reunite an empire. Build your Castle, raise an army, research ancient Lost Arts and wield your strength against rival Lords and the monstrous servants of Balur. Claim your destiny!",
+  "launch_path": "/en/strategy-games/stormfall-age-of-war/",
+  "icons": {
+    "128": "http://plarium-portal.github.io/firefox/icons/stormfall_icon_small.jpg",
+	"512": "http://plarium-portal.github.io/firefox/icons/stormfall_icon_big.jpg"
+  },
+  "developer": {
+    "name": "Plarium",
+    "url": "http://company.plarium.com/"
+  },
+  "default_locale": "en"
+}

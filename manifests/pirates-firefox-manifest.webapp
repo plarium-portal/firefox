@@ -1,0 +1,14 @@
+{
+  "name": "Pirates: Tides of Fortune",
+  "description": "Set sail for glory, riches and adventure in this swashbuckling MMO! From your ever-expanding pirate Haven, you’ll command a fleet of vessels to rule the Spanish Main and plunder untold riches. Team up with other players and sail under the same flag, or attack them and pillage all the loot you can carry. Fame and riches await—weigh anchor and set sail on the Tides of Fortune!",
+  "launch_path": "/en/strategy-games/pirates-tides-of-fortune/",
+  "icons": {
+    "128": "http://plarium-portal.github.io/firefox/icons/kp_icon_small.jpg",
+	"512": "http://plarium-portal.github.io/firefox/icons/kp_icon_big.jpg"
+  },
+  "developer": {
+    "name": "Plarium",
+    "url": "http://company.plarium.com/"
+  },
+  "default_locale": "en"
+}

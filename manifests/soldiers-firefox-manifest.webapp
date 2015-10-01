@@ -1,0 +1,14 @@
+{
+  "name": "Soldiers Inc.",
+  "description": "Brutal mercenary warfare, bleeding-edge technology, no holds barred. The year is 2019, and the discovery of the largest deposit of mineral wealth in the world has turned the former Republic of Zandia into an all-out corporate war zone! Develop your base, research new technologies and deploy a huge variety of troops, planes, tanks and drones to bring the pain to your rivals. War is a business, and business is good!",
+  "launch_path": "/en/strategy-games/soldiers-inc/",
+  "icons": {
+    "128": "http://plarium-portal.github.io/firefox/icons/si_icon_small.jpg",
+	"512": "http://plarium-portal.github.io/firefox/icons/si_icon_big.jpg"
+  },
+  "developer": {
+    "name": "Plarium",
+    "url": "http://company.plarium.com/"
+  },
+  "default_locale": "en"
+}

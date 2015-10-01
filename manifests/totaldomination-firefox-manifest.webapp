@@ -1,0 +1,14 @@
+{
+  "name": "Total Domination",
+  "description": "Carve out an empire from the Wasteland! Build your base from a dinky outpost to a glorious citadel. Raid your enemies and team up with like-minded Commanders to try and survive the ravages of rival Clans and the terrible Mutant hordes. Research new technology to unlock devastating war machines. In the harsh Wasteland, glory awaits those with the strength to seize it. This shattered world awaits your Total Domination!",
+  "launch_path": "/en/strategy-games/total-domination/",
+  "icons": {
+    "128": "http://plarium-portal.github.io/firefox/icons/td_icon_small.jpg",
+	"512": "http://plarium-portal.github.io/firefox/icons/td_icon_big.jpg"
+  },
+  "developer": {
+    "name": "Plarium",
+    "url": "http://company.plarium.com/"
+  },
+  "default_locale": "en"
+}

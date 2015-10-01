@@ -1,0 +1,14 @@
+{
+  "name": "Nords: Hero of the North",
+  "description": "The Ice Queen cometh! Do you have what it takes to defend Shingård from its chilliest threat yet? Welcome to Shingård, Lord Marshal! We're in desperate need of a hero these days, and you look quite the part! Granted, we do have a ruler, King Björn the Awesome, but he's often occupied at the, uh, Ale House. Which leaves the job of uniting Orcs, Elves, Northmen, and Dragons against Shingård's greatest ever threat to you. Align yourself with other Strongholds - or fight against them - as you defend against the Ice Queen and her legions of undead and fight to gain control over Shingård!Build your Stronghold, raise an army, sign Blood Pacts with distant lands, and demonstrate your strength against rival Lord Marshals and the monstrous servants of the Ice Queen!",
+  "launch_path": "/en/strategy-games/nords-heroes-of-the-north/",
+  "icons": {
+    "128": "http://plarium-portal.github.io/firefox/icons/nd_icon_small.jpg",
+	"512": "http://plarium-portal.github.io/firefox/icons/nd_icon_big.jpg"
+  },
+  "developer": {
+    "name": "Plarium",
+    "url": "http://company.plarium.com/"
+  },
+  "default_locale": "en"
+}
